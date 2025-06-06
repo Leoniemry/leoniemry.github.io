@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Léonie MERY",
+    "label": "Student",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
@@ -70,7 +70,7 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2018-2022",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
